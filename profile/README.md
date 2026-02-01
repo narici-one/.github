@@ -20,7 +20,7 @@
 
 ## 💎 A Essência
 
-A **Narici One** é uma consultoria boutique que funde a disciplina da Engenharia de Software com a complexidade da Engenharia de Dados. Não entregamos apenas pipelines; construímos ecossistemas digitais resilientes, auditáveis e escaláveis.
+A **Narici One** é uma consultoria que funde a disciplina da Engenharia de Software com a complexidade da Engenharia de Dados. Não entregamos apenas pipelines; construímos ecossistemas digitais resilientes, auditáveis e escaláveis.
 
 Nossa abordagem elimina o "caos de dados" através de arquiteturas maduras (Medallion, Data Mesh) e rigor técnico (Clean Code, TDD, CI/CD).
 
