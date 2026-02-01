@@ -51,7 +51,7 @@ Somos agnósticos, mas opinativos. Escolhemos ferramentas que oferecem robustez 
 
 Nossa presença digital pública reflete nossa identidade: **sóbria, precisa e performática**.
 
-*   **[Landing Page Institucional](https://github.com/narici-one/landing-page)**: Nossa vitrine digital construída com React 19, TypeScript e Tailwind.
+*   **[Landing Page Institucional](https://www.naricione.com/)**: Nossa vitrine digital construída com React 19, TypeScript e Tailwind.
 
 ---
 
